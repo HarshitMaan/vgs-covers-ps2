@@ -1,0 +1,19 @@
+{
+ "schema": "vgs-source/2",
+ "source_id": "vgs-covers-ps2",
+ "updated": "2026-11-22T07:59:34+00:00",
+ "licence": {
+  "artwork_default": {
+   "redistribution": "unknown",
+   "attribution": "Box art from the LaunchBox Games Database community (gamesdb.launchbox-app.com). Artwork belongs to its publishers."
+  }
+ },
+ "shards": [
+  {
+   "platform": "ps2",
+   "path": "manifest/ps2.f4db552d.json",
+   "sha256": "f4db552df6e3ce943ad805c67494fc23447a05a4ba7c1cba7e57be97610aee3a",
+   "games": 1345
+  }
+ ]
+}
